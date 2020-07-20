@@ -4,7 +4,7 @@ Client (React) on port 3000
 
 Server has:
 
-  1) WebSocket configuration
+  1) WebSocket configuration (https://spring.io/guides/gs/messaging-stomp-websocket/)
   2) local Storage of Message (List<Message>)
   3) three methods on controller
       - GET /history
