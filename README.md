@@ -16,5 +16,5 @@ Server has:
 Client has:
   
   1) React ui
-  2) SockJsClient that autoconnecting to server
+  2) SockJsClient (https://www.npmjs.com/package/react-stomp) that autoconnecting to server
       (Optional can be using manual setting of SockJS and STOMP) 
